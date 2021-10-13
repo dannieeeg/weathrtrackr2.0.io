@@ -2,8 +2,9 @@
 This is another weather tracking desktop website page. 
 
 WEATHRTRACKR2.0 
-This is another version of the weather tracker that I previously made with codepen and freecodecamp's guided projects. This version used a much easier API to enter into the html and the javascript files.
+This is another version of the weather tracker that I previously made with codepen and freecodecamp's guided projects. This version used a much easier API Key to enter into the html and the javascript files.
 
+The page is set up with a simple flex CSS style to have a clean and concise page set up. 
 languages used:
 # html
 # css
