@@ -9,8 +9,9 @@ languages used:
 # css
 # javascript
 # openweathermap
-# API inclusion!
-[Uploading Screenshot 2021-10-12 234512.png…]()
+# API inclusion
 
-github link:
+
+Preview:![Screenshot 2021-10-12 234512](https://user-images.githubusercontent.com/78777206/137151677-6061ecc3-70c7-4b78-8964-870bf1a40d16.png)
+
 
